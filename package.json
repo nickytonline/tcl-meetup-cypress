@@ -64,5 +64,8 @@
       "prettier --write"
     ],
     "*.{css,md}": "prettier --write"
+  },
+  "engines": {
+    "node": ">=16.0.0 <17.0.0"
   }
 }
